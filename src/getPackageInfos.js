@@ -1,6 +1,6 @@
 import config, { debugConfig } from './config';
 import 'isomorphic-fetch';
-
+// require ('coding_web_ide_plugin/package.json')
 
 const debugExtension = process.env.EXTENSION || '';
 

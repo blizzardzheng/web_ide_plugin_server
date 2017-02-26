@@ -18,7 +18,6 @@
     "babel-preset-react-app": "^0.2.1",
     "babel-runtime": "^6.11.6",
     "body-parser": "^1.15.2",
-    "coding_web_ide_plugin": "ssh://git@github.com/blizzardzheng/coding_web_ide_plugin.git",
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "isomorphic-fetch": "^2.2.1",
